@@ -210,8 +210,13 @@ span.gty {
 .step {
     margin: 0 0 3px 0;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 11px;
     text-align: center;
+}
+.safe_r {
+    /* text-align: center; */
+    display: block;
+    margin: 5px 0 0 0;
 }
 .r_p {
     line-height: 1.4;
