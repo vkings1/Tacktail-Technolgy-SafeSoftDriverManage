@@ -34,7 +34,7 @@ fix.addEventListener('click', function() {
     document.getElementById('fixInfo').style.display="block";
 });
 
-setTimeout(function(){
-    document.getElementById('modalPopUP').style.display="block";
-    document.getElementById('bodyblack').style.display="block";
-}, 2000);
+// setTimeout(function(){
+//     document.getElementById('modalPopUP').style.display="block";
+//     document.getElementById('bodyblack').style.display="block";
+// }, 2000);
